@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/about.png</file>
+        <file>images/color.png</file>
+        <file>images/copy.png</file>
+        <file>images/document_open.png</file>
+        <file>images/edit.png</file>
+        <file>images/edit_paste.png</file>
+        <file>images/filesave.png</file>
+        <file>images/font.png</file>
+        <file>images/gnome_logout.png</file>
+        <file>images/print.png</file>
+        <file>images/redo.png</file>
+        <file>images/undo.jpg</file>
+    </qresource>
+</RCC>
