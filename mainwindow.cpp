@@ -25,7 +25,6 @@ void MainWindow::on_actionSave_as_triggered()
         QMessageBox::warning(this, "Warning", "Cannot save file: "+file.errorString());
         return;
     }
-    current_file=filename;
     setWindowTitle(filename);
     QTextStream out(&file);
     text=ui->textEdit->toPlainText();

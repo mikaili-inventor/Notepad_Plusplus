@@ -6,8 +6,9 @@
 #include <QFile>
 #include <QTextStream>
 #include <QMessageBox>
-#include <QPrinter>
 #include <QPrintDialog>
+#include <QPrinter>
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
